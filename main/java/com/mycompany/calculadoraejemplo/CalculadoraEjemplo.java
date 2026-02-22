@@ -9,6 +9,8 @@ package com.mycompany.calculadoraejemplo;
  */
 public class CalculadoraEjemplo {
 
+//este comentario modifica el main para un 2º commit
+
     public static void main(String[] args) {
         Calculadora calc = new Calculadora(10, 5);
         
